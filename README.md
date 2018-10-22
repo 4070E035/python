@@ -1,4 +1,4 @@
-# * python
+# python
 http://www.runoob.com/python/python-100-examples.html
 
 # 範例程式:p100_1.py
